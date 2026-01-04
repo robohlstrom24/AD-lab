@@ -13,7 +13,7 @@ This project demonstrates foundational Active Directory skills modeled after an 
 
 ## Future Enhancements
 
-- Apply a baseline Group Policy Object (GPO) to demonstrate centralized configuration management (e.g., password policy or desktop security settings)
+- Apply a baseline Group Policy Object (GPO) to demonstrate centralized configuration management 
 - Expand user lifecycle workflows to include bulk provisioning and role changes using scripted automation
 - Implement additional security groups to model more complex role separation and access scenarios
 - Introduce delegated administrative permissions within OUs to simulate tiered administration
