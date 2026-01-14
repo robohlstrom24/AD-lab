@@ -1,4 +1,6 @@
-## Active Directory 101 (in progress)
+(project in progress)
+
+## Active Directory Lab
 
 ## Operational Relevance (Identity and Access Management)
 
