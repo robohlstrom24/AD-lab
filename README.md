@@ -1,6 +1,6 @@
-(project in progress)
+# Active Directory Lab
 
-## Active Directory Lab
+(project in progress)
 
 ## Operational Relevance (Identity and Access Management)
 
