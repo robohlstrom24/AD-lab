@@ -6,7 +6,15 @@
 
 This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Fifteen Group Policy Objects (GPOs) are implemented and validated by joining a client workstation to the domain and confirming policy application.
 
-### Environment Structure
+## Job Duties (IT Operations)
+
+- Deploy and configure Windows Server Domain Controllers for centralized identity services
+- Organize Active Directory using a custom organizational unit (OU) hierarchy to support lifecycle management and policy scoping
+- Implement group-based access control using Active Directory security groups (RBAC)
+- Configure and enforce Group Policy Objects (GPOs) to apply security baselines and role-based system controls
+- Join and validate client workstations within domains to confirm authentication, GPO application, and DNS integration
+
+## Environment Structure
 
 - **Departments:** IT, Sales, Finance  
 - **Roles per department:** Assistant, Staff, Director  
@@ -19,7 +27,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 - **IT:** Enable PowerShell Script Block Logging, allow MMC snap-ins  
 - **Sales:** Map Sales network drive, disable access to advanced system settings  
-- **Finance:** Prevent local data storage, block removable storage (USB mass storage)  
+- **Finance:** Prevent local data storage, block removable storage (USB)  
 
 ### Role-Based GPOs
 
@@ -29,12 +37,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 
 
-## Job Skills (IT Operations)
 
-- Deploy and configure Windows Server Domain Controllers for centralized identity services
-- Organize Active Directory using a custom OU hierarchy to support lifecycle management and policy scoping
-- Implement group-based access control using Active Directory security groups (RBAC)
-- Join and validate client workstations within domains to confirm authentication and DNS integration
 
 ## Future Enhancements
 
