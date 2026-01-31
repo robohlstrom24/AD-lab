@@ -27,11 +27,12 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 ### Department-Based GPOs
 
-- **IT:**
-  - Enable PowerShell Script Block Logging
-  - allow MMC snap-ins
+**IT:**
+- Enable PowerShell Script Block Logging
+- allow MMC snap-ins
   
-- **Sales:**
+**Sales:**
+
 <details>
  <summary> Map Sales network drive </summary>
  
@@ -41,24 +42,25 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  ![Map Sales network drive 1](images/sales.drive_4.png)
  
 </details>
-  - disable access to advanced system settings
+- disable access to advanced system settings
+
 
     
-- **Finance:**
-  - Prevent local data storage
-  - block removable storage (USB)  
+**Finance:**
+- Prevent local data storage
+- block removable storage (USB)  
 
 ### Role-Based GPOs
 
-- **Assistant:**
-  - Restrict selected Control Panel applets
-  - prevent software installations  
-- **Staff:**
-  - Allow task-level resources
-  - restrict software installations  
-- **Director:**
-  - Allow software installations
-  - enable enhanced logon/logoff auditing  
+**Assistant:**
+- Restrict selected Control Panel applets
+- prevent software installations  
+**Staff:**
+- Allow task-level resources
+- restrict software installations  
+**Director:**
+- Allow software installations
+- enable enhanced logon/logoff auditing  
 
 
 
