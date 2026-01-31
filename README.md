@@ -1,6 +1,6 @@
 # Active Directory Lab
 
-(project in progress)
+(project in progress, screenshots provided in drop-down for completed work)
 
 ## Operational Relevance (Identity and Access Management)
 
@@ -30,7 +30,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 - **IT:**
   - Enable PowerShell Script Block Logging
   - allow MMC snap-ins
-  - 
+  
 - **Sales:**
 <details>
  <summary> Map Sales network drive </summary>
@@ -43,13 +43,21 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 </details>
   - disable access to advanced system settings
     
-- **Finance:** Prevent local data storage, block removable storage (USB)  
+- **Finance:**
+  - Prevent local data storage
+  - block removable storage (USB)  
 
 ### Role-Based GPOs
 
-- **Assistant:** Restrict selected Control Panel applets, prevent software installations  
-- **Staff:** Allow task-level resources, restrict software installations  
-- **Director:** Allow software installations, enable enhanced logon/logoff auditing  
+- **Assistant:**
+  - Restrict selected Control Panel applets
+  - prevent software installations  
+- **Staff:**
+  - Allow task-level resources
+  - restrict software installations  
+- **Director:**
+  - Allow software installations
+  - enable enhanced logon/logoff auditing  
 
 
 
