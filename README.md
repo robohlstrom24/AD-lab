@@ -21,11 +21,16 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 ### Domain-Wide GPOs (Security Baseline)
 
-- Password length **15+ characters**, domain time synchronization (**NTP**), automatic workstation lock after **15 minutes** of inactivity
+- Password length **15+ characters**
+- domain time synchronization (**NTP**)
+- automatic workstation lock after **15 minutes** of inactivity
 
 ### Department-Based GPOs
 
-- **IT:** Enable PowerShell Script Block Logging, allow MMC snap-ins  
+- **IT:**
+  - Enable PowerShell Script Block Logging
+  - allow MMC snap-ins
+  - 
 - **Sales:**
 <details>
  <summary> Map Sales network drive </summary>
