@@ -44,8 +44,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 </details>
 - disable access to advanced system settings
 
-
-    
 **Finance:**
 - Prevent local data storage
 - block removable storage (USB)  
@@ -54,10 +52,12 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 **Assistant:**
 - Restrict selected Control Panel applets
-- prevent software installations  
+- prevent software installations
+
 **Staff:**
 - Allow task-level resources
-- restrict software installations  
+- restrict software installations
+  
 **Director:**
 - Allow software installations
 - enable enhanced logon/logoff auditing  
