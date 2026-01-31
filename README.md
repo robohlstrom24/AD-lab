@@ -31,6 +31,9 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  <summary> Map Sales network drive </summary>
  
  ![Map Sales network drive 1](images/sales.drive_1.png)
+ ![Map Sales network drive 1](images/sales.drive_2.png)
+ ![Map Sales network drive 1](images/sales.drive_3.png)
+ ![Map Sales network drive 1](images/sales.drive_4.png)
  
 </details>
   - disable access to advanced system settings
