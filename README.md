@@ -42,6 +42,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  ![Map Sales network drive 1](images/sales.drive_4.png)
  
 </details>
+
 - disable access to advanced system settings
 
 **Finance:**
