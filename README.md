@@ -42,6 +42,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
   - disable access to advanced system settings
+
     
 - **Finance:**
   - Prevent local data storage
