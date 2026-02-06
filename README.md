@@ -4,7 +4,7 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support / IT Operations / systems administration environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots visible when clicking the > dropdowns.  
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots visible when clicking the > dropdowns.  
 
 ## Tier 1/Tier 2 IT Support Tasks
 
@@ -21,6 +21,14 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
+<details>
+ <summary> Account lockout / password reset </summary>
+
+ **Provisioning account lockout policy**
+
+ ![policy](images/configure.account.lockout.png)
+ 
+</details>
 
 ## Group Policy Objects
 <details>
