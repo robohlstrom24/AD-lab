@@ -4,7 +4,7 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots.  
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots visible when clicking the '>' dropdowns.  
 
 ## Job Duties Demonstrated 
 
@@ -14,6 +14,13 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 - Configure and enforce Group Policy Objects (GPOs) to apply security baselines and role-based system controls
 - Join and validate client workstations within domains to confirm authentication, GPO application, and DNS integration
 
+## Tier 1 / Tier 2 IT Support Tasks
+
+<details>
+ <summary> New user creation and domain-join validation</summary>
+
+ 
+</details>
 
 <details>
  <summary> Map Sales network drive </summary>
