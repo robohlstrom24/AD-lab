@@ -30,7 +30,9 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
  **Account lockout: 5 failed attempts**
 
- ![locked](images/account.locked.jpeg)
+<p align="center">
+ <img src="images/account.locked.jpeg" width="600><br>
+  </p>
 
  **Assigning temporary password**
 
