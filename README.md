@@ -13,7 +13,8 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 **Finance users provisioned**
 
-![new user](images/new.user.creation.png)
+<p align="center">
+ <img scr="images/new.user.creation.png" width="600"><br>
 
 **Domain authentication validation on client workstation**
 
