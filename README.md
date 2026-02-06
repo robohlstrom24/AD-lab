@@ -2,7 +2,7 @@
 
 (project in progress)
 
-## Operational Relevance (Identity and Access Management)
+## Operational Relevance 
 
 This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots.  
 
