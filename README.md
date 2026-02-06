@@ -50,6 +50,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
+
 ## Group Policy Objects
 <details>
  <summary> Map Sales network drive </summary>
