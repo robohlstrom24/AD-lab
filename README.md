@@ -4,24 +4,20 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots visible when clicking the '>' dropdowns.  
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support / IT Operations / systems administration environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots visible when clicking the > dropdowns.  
 
-## Job Duties Demonstrated 
-
-- Deploy and configure Windows Server Domain Controllers for centralized identity services
-- Organize Active Directory using a custom organizational unit (OU) hierarchy to support lifecycle management and policy scoping
-- Implement group-based access control using Active Directory security groups (RBAC)
-- Configure and enforce Group Policy Objects (GPOs) to apply security baselines and role-based system controls
-- Join and validate client workstations within domains to confirm authentication, GPO application, and DNS integration
-
-## Tier 1 / Tier 2 IT Support Tasks
+## Tier 1/Tier 2 IT Support Tasks
 
 <details>
  <summary> New user creation and domain-join validation</summary>
 
+![new user](images/new.user.creation.png)
+![new user](images/user.login.validation.png)
  
 </details>
 
+
+## Group Policy Objects
 <details>
  <summary> Map Sales network drive </summary>
  
@@ -32,7 +28,13 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
+## Job Duties Demonstrated 
 
+- Deploy and configure Windows Server Domain Controllers for centralized identity services
+- Organize Active Directory using a custom organizational unit (OU) hierarchy to support lifecycle management and policy scoping
+- Implement group-based access control using Active Directory security groups (RBAC)
+- Configure and enforce Group Policy Objects (GPOs) to apply security baselines and role-based system controls
+- Join and validate client workstations within domains to confirm authentication, GPO application, and DNS integration
 
 
 
