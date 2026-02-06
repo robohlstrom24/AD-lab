@@ -11,9 +11,12 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 <details>
  <summary> New user creation and domain-join validation</summary>
 
-Finance users provisioned
+**Finance users provisioned**
+
 ![new user](images/new.user.creation.png)
-Domain authentication validation on client workstation
+
+**Domain authentication validation on client workstation**
+
 ![new user](images/user.login.validation.png)
  
 </details>
