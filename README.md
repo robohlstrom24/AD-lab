@@ -45,13 +45,10 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  **Password change prompt**
 
 <p align="left">
- <img src="images/change.password.jpeg" width="300><br>
+ <img src="images/change.password.jpeg" width="300"><br>
   </p>
  
 </details>
-
-
-
 
 ## Group Policy Objects
 <details>
