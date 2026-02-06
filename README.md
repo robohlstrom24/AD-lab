@@ -31,6 +31,18 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  **Account lockout: 5 failed attempts**
 
  ![locked](images/account.locked.jpeg)
+
+ **Assigning temporary password**
+
+ ![temp](images/temp.password.png)
+
+ **Unlocking account**
+
+ ![unlock](images/unlock.account.png)
+
+ **Password change prompt**
+
+ ![change](images/change.password.jpeg)
  
 </details>
 
