@@ -44,7 +44,9 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
  **Password change prompt**
 
- ![change](images/change.password.jpeg)
+<p align="left">
+ <img src="images/change.password.jpeg" width="300><br>
+  </p>
  
 </details>
 
