@@ -30,7 +30,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
  **Account lockout: 5 failed attempts**
 
-<p align="center">
+<p align="left">
  <img src="images/account.locked.jpeg" width="300><br>
   </p>
 
