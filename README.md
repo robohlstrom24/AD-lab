@@ -1,10 +1,10 @@
 # Active Directory Lab
 
-(project in progress, screenshots provided in drop-downs for completed work)
+(project in progress)
 
 ## Operational Relevance (Identity and Access Management)
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Fifteen Group Policy Objects (GPOs) are implemented and validated by joining a client workstation to the domain and confirming policy application.
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Operations environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Identity and Access Management (IAM) principles are applied through role-based access control (RBAC) using security groups. Proficiency with tier 1 / tier 2 IT support tasks is demonstrated with screenshots.  
 
 ## Job Duties Demonstrated 
 
@@ -14,24 +14,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 - Configure and enforce Group Policy Objects (GPOs) to apply security baselines and role-based system controls
 - Join and validate client workstations within domains to confirm authentication, GPO application, and DNS integration
 
-## Environment Structure
-
-- **Departments:** IT, Sales, Finance  
-- **Roles per department:** Assistant, Staff, Director  
-
-### Domain-Wide GPOs (Security Baseline)
-
-- Password length **15+ characters**
-- domain time synchronization (**NTP**)
-- automatic workstation lock after **15 minutes** of inactivity
-
-### Department-Based GPOs
-
-**IT:**
-- Enable PowerShell Script Block Logging
-- allow MMC snap-ins
-  
-**Sales:**
 
 <details>
  <summary> Map Sales network drive </summary>
@@ -43,25 +25,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
-- disable access to advanced system settings
 
-**Finance:**
-- Prevent local data storage
-- block removable storage (USB)  
-
-### Role-Based GPOs
-
-**Assistant:**
-- Restrict selected Control Panel applets
-- prevent software installations
-
-**Staff:**
-- Allow task-level resources
-- restrict software installations
-  
-**Director:**
-- Allow software installations
-- enable enhanced logon/logoff auditing  
 
 
 
