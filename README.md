@@ -28,10 +28,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 <details>
  <summary> Account lockout / unlock </summary>
 
- **Provisioning account lockout policy**
-
- ![policy](images/configure.account.lockout.png)
-
  **Account lockout: 5 failed attempts**
 
 <p align="left">
@@ -51,6 +47,10 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 <p align="left">
  <img src="images/change.password.jpeg" width="300"><br>
   </p>
+
+ **Provisioning account lockout policy**
+
+ ![policy](images/configure.account.lockout.png)
  
 </details>
 
