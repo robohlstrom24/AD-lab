@@ -18,6 +18,15 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 </details>
 
 <details>
+ <summary>Provision new user using role-based template</summary>
+
+ ![1](images/onboarding1.png)
+ ![2](images/onboarding2.png)
+ ![3](images/onboarding3.png)
+ 
+</details>
+
+<details>
  <summary>Disable Account</summary>
  
 ![disable1](images/disable.account1.png)
