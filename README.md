@@ -75,8 +75,11 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 <details>
  <summary> Automate department drive mapping with Group Policy </summary>
+
+ Implemented a Group Policy preference to automatically map a department network drive for Sales users, eliminating manual configuration and ensuring consistent access. 
  
  ![Map Sales network drive 1](images/sales.drive_1.png)
+ ______________________________________________________
  ![Map Sales network drive 1](images/sales.drive_2.png)
  ![Map Sales network drive 1](images/sales.drive_3.png)
  ![Map Sales network drive 1](images/sales.drive_4.png)
