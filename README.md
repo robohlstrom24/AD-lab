@@ -27,14 +27,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 </details>
 
 <details>
- <summary>Disable Account</summary>
- 
-![disable1](images/disable.account1.png)
- ![disable2](images/disable.account2.png)
- 
-</details>
-
-<details>
  <summary> Account lockout / unlock </summary>
 
  **Account lockout: 5 failed attempts**
@@ -68,6 +60,14 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
  ![1](images/add.group3.png)
  ![2](images/add.group2.png)
+ 
+</details>
+
+<details>
+ <summary>Disable Account</summary>
+ 
+![disable1](images/disable.account1.png)
+ ![disable2](images/disable.account2.png)
  
 </details>
 
