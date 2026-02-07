@@ -31,6 +31,14 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 </details>
 
 <details>
+ <summary>Disable Account</summary>
+ 
+![disable1](images/disable.account1.png)
+ ![disable2](images/disable.account2.png)
+ 
+</details>
+
+<details>
  <summary> Account lockout / unlock </summary>
 
  **Provisioning account lockout policy**
@@ -59,13 +67,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
-<details>
- <summary>Disable Account</summary>
- 
-![disable1](images/disable.account1.png)
- ![disable2](images/disable.account2.png)
- 
-</details>
 
 ## Group Policy Objects
 <details>
