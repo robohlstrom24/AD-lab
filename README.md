@@ -22,6 +22,11 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 </details>
 
 <details>
+ <summary> Password reset </summary>
+ 
+</details>
+
+<details>
  <summary> Account lockout / unlock </summary>
 
  **Provisioning account lockout policy**
