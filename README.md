@@ -23,6 +23,8 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 <details>
  <summary> Password reset </summary>
+
+ ![reset1](images/password.reset.1.png)
  
 </details>
 
