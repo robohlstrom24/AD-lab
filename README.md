@@ -9,19 +9,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 ## Tier 1 IT Support Tasks
 
 <details>
- <summary> New user creation and domain-join validation</summary>
-
-**Finance users provisioned**
-
-![provision](images/new.user.creation.png)
-
-**Domain authentication validation on client workstation**
-
-![new user](images/user.login.validation.png)
- 
-</details>
-
-<details>
  <summary> Password reset </summary>
 
  ![reset1](images/password.reset.4.png)
@@ -67,6 +54,26 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
+<details>
+ <summary> New user creation and domain-join validation</summary>
+
+**Finance users provisioned**
+
+![provision](images/new.user.creation.png)
+
+**Domain authentication validation on client workstation**
+
+![new user](images/user.login.validation.png)
+ 
+</details>
+
+<details>
+ <summary>Grant user access to department resource</summary>
+
+ ![1](images/add.group1.png)
+ ![2](images/add.group2.png)
+ 
+</details>
 
 ## Group Policy Objects
 <details>
