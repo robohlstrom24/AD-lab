@@ -4,7 +4,7 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Proficiency with tier 1 IT support tasks is demonstrated with screenshots (click the > dropdowns to view).  
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view).  
 
 ## Tier 1 IT Support Tasks
 
@@ -71,9 +71,10 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
-## Group Policy Objects
+## Tier 2 IT Support Tasks
+
 <details>
- <summary> Map Sales network drive </summary>
+ <summary> Automate department drive mapping with Group Policy </summary>
  
  ![Map Sales network drive 1](images/sales.drive_1.png)
  ![Map Sales network drive 1](images/sales.drive_2.png)
