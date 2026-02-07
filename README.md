@@ -81,7 +81,9 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  ![Map Sales network drive 1](images/sales.drive_1.png)
  ______________________________________________________
  ![Map Sales network drive 1](images/sales.drive_2.png)
+ ______________________________________________________
  ![Map Sales network drive 1](images/sales.drive_3.png)
+ ______________________________________________________
  ![Map Sales network drive 1](images/sales.drive_4.png)
  
 </details>
