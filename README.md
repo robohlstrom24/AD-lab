@@ -70,7 +70,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 <details>
  <summary>Grant user access to department resource</summary>
 
- ![1](images/add.group1.png)
+ ![1](images/add.group3.png)
  ![2](images/add.group2.png)
  
 </details>
