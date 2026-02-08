@@ -97,7 +97,7 @@ _________________________________________
 <details>
  <summary>Create department-specific GPOs and troubleshoot misconfigurations </summary>
  
-**Create department-specific GPO (Finances users can't save files locally)**
+**Department-specific GPO (Finance users can't save files locally)**
 
 ![1](images/create.GPO1.png)
 ________________________
@@ -108,8 +108,6 @@ ________________________
 
  ![3](images/local.save.denied.png)
  __________________________________
- **Investigation:**
-
  ![4](images/troubleshooting.png)
  ________________________________
  ![5](images/misconfigured.GPO.png)
