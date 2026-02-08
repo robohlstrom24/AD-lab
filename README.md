@@ -99,9 +99,9 @@ _________________________________________
  
 Create department-specific GPO (Finances users can't save files locally)
 
-![1](images/create.GPO1)
+![1](images/create.GPO1.png)
 ________________________
-![2](images/create.GPO2)
+![2](images/create.GPO2.png)
  
 </details>
 
