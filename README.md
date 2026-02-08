@@ -94,6 +94,9 @@ _________________________________________
  
 </details>
 
+<details>
+ <summary>Create department-specific GPOs and troubleshoot misconfigurations </summary>
+</details>
 
 ## Future Enhancements
 
