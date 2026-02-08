@@ -4,7 +4,9 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view).  
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. A Windows Server domain controller is deployed, and a custom organizational unit (OU) hierarchy separates users, groups, and endpoints. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view). Troubleshooting activities are documented in a separate repository modeled after ITSM ticket-based professional suport methodologies.    
+
+(see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
 ## Tier 1 IT Support Tasks
 
