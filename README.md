@@ -96,6 +96,11 @@ _________________________________________
 
 <details>
  <summary>Create department-specific GPOs and troubleshoot misconfigurations </summary>
+Create department-specific GPO (Finances users can't save files locally)
+![1](images/create.GPO1)
+________________________
+![2](images/create.GPO2)
+ 
 </details>
 
 ## Future Enhancements
