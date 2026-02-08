@@ -121,6 +121,8 @@ ________________________
  - Removed the unintended domain-level link while preserving the GPO for the Finance OU
  - Confirmed policy scope corrected and Sales user functionality restored
 
+See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troubleshooting-journal) for ITSM-style troubleshooting ticket
+
 </details>
 
 ## Future Enhancements
