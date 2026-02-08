@@ -97,18 +97,18 @@ _________________________________________
 <details>
  <summary>Create department-specific GPOs and troubleshoot misconfigurations </summary>
  
-Create department-specific GPO (Finances users can't save files locally)
+**Create department-specific GPO (Finances users can't save files locally)**
 
 ![1](images/create.GPO1.png)
 ________________________
 ![2](images/create.GPO2.png)
  ____________________________
 
- Troubleshooting scenario: Sales user reports they can't save files locally
+ **Troubleshooting scenario: Sales user reports they can't save files locally**
 
  ![3](images/local.save.denied.png)
  __________________________________
- Investigation:
+ **Investigation:**
 
  ![4](images/troubleshooting.png)
  ________________________________
@@ -117,7 +117,7 @@ ________________________
  ![6](images/GPO.removed.png)
  ______________________________
 
- Resolution: 
+ **Resolution:** 
  - Removed the unintended domain-level link while preserving the GPO for the Finance OU
  - Confirmed policy scope corrected and Sales user functionality restored
 
