@@ -88,17 +88,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  
 </details>
 
-## Job Duties Demonstrated 
-
-- Deploy and configure Windows Server Domain Controllers for centralized identity services
-- Organize Active Directory using a custom organizational unit (OU) hierarchy to support lifecycle management and policy scoping
-- Implement group-based access control using Active Directory security groups (RBAC)
-- Configure and enforce Group Policy Objects (GPOs) to apply security baselines and role-based system controls
-- Join and validate client workstations within domains to confirm authentication, GPO application, and DNS integration
-
-
-
-
 
 ## Future Enhancements
 
