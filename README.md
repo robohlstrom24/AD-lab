@@ -12,7 +12,9 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  <summary> Password reset </summary>
 
  ![reset1](images/password.reset.4.png)
+ ______________________________________
  ![reset2](images/password.reset.2.png)
+ ______________________________________
  ![reset3](images/password.reset.3.png)
  
 </details>
@@ -21,7 +23,9 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  <summary>Provision new user using role-based template</summary>
 
  ![1](images/onboarding1.png)
+ ____________________________
  ![2](images/onboarding2.png)
+ ____________________________
  ![3](images/onboarding3.png)
  
 </details>
@@ -59,6 +63,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  <summary>Grant user access to department resource</summary>
 
  ![1](images/add.group3.png)
+ ____________________________
  ![2](images/add.group2.png)
  
 </details>
@@ -67,6 +72,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
  <summary>Disable Account</summary>
  
 ![disable1](images/disable.account1.png)
+_________________________________________
  ![disable2](images/disable.account2.png)
  
 </details>
