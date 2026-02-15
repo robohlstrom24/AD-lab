@@ -1,4 +1,4 @@
-![1](images/AD.banner.jpg)
+![1](images/AD.banner2.jpg)
 
 ## Operational Relevance 
 
