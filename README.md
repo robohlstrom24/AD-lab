@@ -6,7 +6,7 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
-## Tier 1 IT Support Tasks
+## Tier-1 IT Support Tasks
 
 <details>
  <summary> Password reset </summary>
@@ -77,7 +77,7 @@ _________________________________________
  
 </details>
 
-## Tier 2 IT Support Tasks
+## Tier-2 IT Support Tasks
 
 <details>
  <summary> Automate department drive mapping with Group Policy </summary>
