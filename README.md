@@ -95,7 +95,7 @@ _________________________________________
 </details>
 
 <details>
- <summary>Create department-specific GPOs and troubleshoot misconfigurations </summary>
+ <summary>Troubleshooting GPO Misconfigurations </summary>
  
 **Department-specific GPO (Finance users can't save files locally)**
 
@@ -120,6 +120,24 @@ ________________________
  - Confirmed policy scope corrected and Sales user functionality restored
 
 See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troubleshooting-journal) for ITSM-style troubleshooting ticket
+
+</details>
+
+<details>
+ <summary>Troubleshooting Broken Domain Trust</summary>
+
+ **Scenario: A workstation’s computer account was removed from Active Directory during routine directory cleanup, breaking the secure channel between the device and the domain.**
+
+ ![1](images/trust-failure/hook.png)
+ ___________________________________
+
+ ![2](images/trust-failure/confirm-trust-broken.png)
+ ________________________________________________
+
+ ![3](images/trust-failure/leave-domain.png)
+ ________________________________________________
+
+ ![4](images/trust-failure/rejoin-domain)
 
 </details>
 
