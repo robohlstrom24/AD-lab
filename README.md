@@ -137,7 +137,9 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
  ![3](images/trust-failure/leave-domain.png)
  ________________________________________________
 
- ![4](images/trust-failure/rejoin-domain)
+ ![4](images/trust-failure/rejoin-domain.png)
+
+ See: [Troubleshooting Journal T-0012](https://github.com/robohlstrom24/troubleshooting-journal) for ITSM-style troubleshooting ticket
 
 </details>
 
