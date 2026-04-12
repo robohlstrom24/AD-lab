@@ -143,6 +143,43 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
 
 </details>
 
+<details>
+ <summary> Access Control (Kerberos | Tickets | Tokens | Troubleshooting)</summary>
+
+ **Exploring how Kerberos authentication, service tickets, and user logon tokens work together in controlling network resource access in Active Directory.**
+
+**Part 1: Lab Build**
+
+ ![1](images/Lab1/0-create-group.png)
+ _____________________________________
+ ![2](images/Lab1/00-add-user.png)
+ ____________________________________
+ ![3](images/Lab1/4-grant-access.png)
+ ______________________________________
+ ![4](images/Lab1/5-share-folder.png)
+
+ **Part 2: Validation**
+
+ ![5](images/Lab1/1-DNS-resolution.png)
+ _______________________________________
+ ![6](images/Lab1/2-klist-tgt.png)
+ _____________________________________
+ ![7](images/Lab1/3-whoami-groups.png)
+ _________________________________________
+ ![8](images/Lab1/6-access-validated.png)
+ _________________________________________
+ ![9](images/Lab1/7-klist-cifs-ticket.png)
+
+ **Part 3: Troubleshooting**
+
+ **Scenario: Access to network resource failed after successful Kerberos authentication, caused by misaligned NTFS and SMB share permissions.**
+
+ ![10](images/Lab1/break-no-access.png)
+
+  See: [Troubleshooting Journal T-0017](https://github.com/robohlstrom24/troubleshooting-journal) for ITSM-style troubleshooting ticket
+ 
+</details>
+
 ## Future Enhancements
 
 - Expand user lifecycle workflows to include bulk provisioning and role changes using scripted automation
