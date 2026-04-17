@@ -2,7 +2,7 @@
 
 ## Operational Relevance 
 
-This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with screenshots (click the > dropdowns to view). Troubleshooting activities are supplemented with ITSM-style tickets which are documented in a companion repository.
+This project demonstrates foundational Active Directory (AD) skills modeled after an IT Support environment. Proficiency with tier 1 and tier 2 IT support tasks is demonstrated with captioned screenshots (click the > dropdowns to view). Troubleshooting activities are supplemented with ITSM-style tickets which are documented in a companion repository.
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
