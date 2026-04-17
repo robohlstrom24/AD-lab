@@ -150,7 +150,7 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
 
 **Part 1: Lab Build**
 
- ![1](images/Lab1/0-create-group.png)
+ ![1](images/Lab1/replace1.png)
  _____________________________________
  ![2](images/Lab1/00-add-user.png)
  ____________________________________
