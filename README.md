@@ -156,7 +156,7 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
  ____________________________________
  ![4](images/Lab1/5-share-folder.png)
   ____________________________________
- ![3](images/Lab1/4-grant-access.png)
+ ![3](images/Lab1/replace4.png)
 
  **Part 2: Validation**
 
