@@ -166,7 +166,7 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
  _____________________________________
  ![7](images/Lab1/3-whoami-groups.png)
  _________________________________________
- ![8](images/Lab1/6-access-validated.png)
+ ![8](images/Lab1/replace8.png)
  _________________________________________
  ![9](images/Lab1/7-klist-cifs-ticket.png)
 
