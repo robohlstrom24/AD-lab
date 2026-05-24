@@ -91,6 +91,7 @@ _________________________________________
  ![Map Sales network drive 1](images/sales.drive_4.png)
  
 </details>
+
 ## Tier-2 IT Support Tasks
 
 <details>
