@@ -77,10 +77,8 @@ _________________________________________
  
 </details>
 
-## Tier-2 IT Support Tasks
-
 <details>
- <summary> Automate department drive mapping with Group Policy </summary>
+ <summary> Automate network drive mapping to eliminate manual configuration </summary>
 
  Implemented a Group Policy preference to automatically map a department network drive for Sales users, eliminating manual configuration and ensuring consistent access. 
  
@@ -93,6 +91,7 @@ _________________________________________
  ![Map Sales network drive 1](images/sales.drive_4.png)
  
 </details>
+## Tier-2 IT Support Tasks
 
 <details>
  <summary>Troubleshooting GPO Misconfigurations </summary>
