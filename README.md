@@ -14,92 +14,6 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 - Kerberos authentication and service ticket validation (`klist`, `whoami /groups`)
 - Broken domain trust diagnosis and remediation (`nltest`, domain rejoin)
 
-## Tier-1 IT Support Tasks
-
-<details>
- <summary> Password reset </summary>
-
- ![reset1](images/password.reset.4.png)
- ______________________________________
- ![reset2](images/password.reset.2.png)
- ______________________________________
- ![reset3](images/password.reset.3.png)
- 
-</details>
-
-<details>
- <summary>Provision new user using role-based template</summary>
-
- ![1](images/onboarding1.png)
- ____________________________
- ![2](images/onboarding2.png)
- ____________________________
- ![3](images/onboarding3.png)
- 
-</details>
-
-<details>
- <summary> Account lockout / unlock </summary>
-
- **Account lockout: 5 failed attempts**
-
-<p align="left">
- <img src="images/account.locked.jpeg" width="300><br>
-  </p>
-
- **Assigning temporary password**
-
- ![temp](images/temp.password.png)
-
- **Unlocking account**
-
- ![unlock](images/unlock.account.png)
-
- **Password change prompt**
-
-<p align="left">
- <img src="images/change.password.jpeg" width="300"><br>
-  </p>
-
- **Provisioning account lockout policy**
-
- ![policy](images/configure.account.lockout.png)
- 
-</details>
-
-<details>
- <summary>Grant user access to department resource</summary>
-
- ![1](images/add.group3.png)
- ____________________________
- ![2](images/add.group2.png)
- 
-</details>
-
-<details>
- <summary>Disable Account</summary>
- 
-![disable1](images/disable.account1.png)
-_________________________________________
- ![disable2](images/disable.account2.png)
- 
-</details>
-
-<details>
- <summary> Automate network drive mapping to eliminate manual configuration </summary>
-
- Implemented a Group Policy preference to automatically map a department network drive for Sales users, eliminating manual configuration and ensuring consistent access. 
- 
- ![Map Sales network drive 1](images/sales.drive_1.png)
- ______________________________________________________
- ![Map Sales network drive 1](images/sales.drive_2.png)
- ______________________________________________________
- ![Map Sales network drive 1](images/sales.drive_3.png)
- ______________________________________________________
- ![Map Sales network drive 1](images/sales.drive_4.png)
- 
-</details>
-
 ## Tier-2 IT Support Tasks
 
 <details>
@@ -190,6 +104,94 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
 - **`klist` and `whoami /groups` are your first troubleshooting stops** — confirming the service ticket and group membership early eliminates authentication and RBAC as causes before touching permissions.
 
 </details>
+
+## Tier-1 IT Support Tasks
+
+<details>
+ <summary> Password reset </summary>
+
+ ![reset1](images/password.reset.4.png)
+ ______________________________________
+ ![reset2](images/password.reset.2.png)
+ ______________________________________
+ ![reset3](images/password.reset.3.png)
+ 
+</details>
+
+<details>
+ <summary>Provision new user using role-based template</summary>
+
+ ![1](images/onboarding1.png)
+ ____________________________
+ ![2](images/onboarding2.png)
+ ____________________________
+ ![3](images/onboarding3.png)
+ 
+</details>
+
+<details>
+ <summary> Account lockout / unlock </summary>
+
+ **Account lockout: 5 failed attempts**
+
+<p align="left">
+ <img src="images/account.locked.jpeg" width="300><br>
+  </p>
+
+ **Assigning temporary password**
+
+ ![temp](images/temp.password.png)
+
+ **Unlocking account**
+
+ ![unlock](images/unlock.account.png)
+
+ **Password change prompt**
+
+<p align="left">
+ <img src="images/change.password.jpeg" width="300"><br>
+  </p>
+
+ **Provisioning account lockout policy**
+
+ ![policy](images/configure.account.lockout.png)
+ 
+</details>
+
+<details>
+ <summary>Grant user access to department resource</summary>
+
+ ![1](images/add.group3.png)
+ ____________________________
+ ![2](images/add.group2.png)
+ 
+</details>
+
+<details>
+ <summary>Disable Account</summary>
+ 
+![disable1](images/disable.account1.png)
+_________________________________________
+ ![disable2](images/disable.account2.png)
+ 
+</details>
+
+<details>
+ <summary> Automate network drive mapping to eliminate manual configuration </summary>
+
+ Implemented a Group Policy preference to automatically map a department network drive for Sales users, eliminating manual configuration and ensuring consistent access. 
+ 
+ ![Map Sales network drive 1](images/sales.drive_1.png)
+ ______________________________________________________
+ ![Map Sales network drive 1](images/sales.drive_2.png)
+ ______________________________________________________
+ ![Map Sales network drive 1](images/sales.drive_3.png)
+ ______________________________________________________
+ ![Map Sales network drive 1](images/sales.drive_4.png)
+ 
+</details>
+
+
 
 ## Future Enhancements
 
