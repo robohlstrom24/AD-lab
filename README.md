@@ -134,6 +134,11 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
 
  See: [Troubleshooting Journal T-0012](https://github.com/robohlstrom24/troubleshooting-journal) for ITSM-style troubleshooting ticket
 
+**Lessons Learned:**
+- **Domain membership ≠ domain trust** — `systeminfo` shows joined status, but `nltest /sc_verify` confirms whether the secure channel is actually intact.
+- **Computer accounts are AD objects too** — routine directory cleanup can silently break workstations if computer accounts are deleted alongside user accounts.
+- **Local admin access is the recovery path** — when domain auth fails, a documented local admin credential is the only way back in.
+
 </details>
 
 <details>
