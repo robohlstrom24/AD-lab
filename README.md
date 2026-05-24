@@ -6,6 +6,14 @@ This project demonstrates foundational Active Directory (AD) skills modeled afte
 
 (see: [Troubleshooting Journal](https://github.com/robohlstrom24/troubleshooting-journal))
 
+## Job Skills Demonstrated
+
+- Security group-based RBAC and resource access control
+- Account lifecycle management (provisioning, lockout/unlock, disable)
+- GPO creation, scoping, and misconfiguration troubleshooting
+- Kerberos authentication and service ticket validation (`klist`, `whoami /groups`)
+- Broken domain trust diagnosis and remediation (`nltest`, domain rejoin)
+
 ## Tier-1 IT Support Tasks
 
 <details>
