@@ -101,7 +101,7 @@ See: [Troubleshooting Journal T-0008](https://github.com/robohlstrom24/troublesh
  **Lessons Learned:**
  - **Kerberos success doesn't mean access granted** — authentication and authorization are separate layers; a valid TGT confirms identity, but NTFS and SMB permissions independently control whether a user can actually reach the resource.
 - **SMB and NTFS permissions must align** — share permissions control network-level access, NTFS controls resource-level access; misconfiguring either one blocks access even when the other is correct.
-- **`klist` and `whoami /groups` are your first troubleshooting stops** — confirming the service ticket and group membership early eliminates authentication and RBAC as causes before touching permissions.
+- **`klist` and `whoami /groups` are the first troubleshooting steps** — confirming the service ticket and group membership early eliminates authentication and RBAC as causes before touching permissions.
 
 </details>
 
